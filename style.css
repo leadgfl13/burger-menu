@@ -81,5 +81,6 @@ div.choice{
 
   button.submit:focus{
     background-color:green;
+    margin-bottom:20px;
 
   }
